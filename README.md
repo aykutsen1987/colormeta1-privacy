@@ -1,1 +1,1 @@
-# colormeta1-privacy
+# colormeta-privacy
